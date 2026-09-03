@@ -1,0 +1,1 @@
+   at Program.<<Main>$>g__MethodC|0_4() in C:\temp\ispp31\LabApplication\ConsoleApp\Program.cs:line 77   at Program.<<Main>$>g__MethodC|0_4() in C:\temp\ispp31\LabApplication\ConsoleApp\Program.cs:line 77   at Program.<<Main>$>g__MethodC|0_4() in C:\temp\ispp31\LabApplication\ConsoleApp\Program.cs:line 77

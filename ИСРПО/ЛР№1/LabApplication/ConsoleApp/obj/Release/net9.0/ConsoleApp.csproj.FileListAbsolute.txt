@@ -1,0 +1,14 @@
+C:\temp\ispp31\LabApplication\ConsoleApp\bin\Release\net9.0\ConsoleApp.exe
+C:\temp\ispp31\LabApplication\ConsoleApp\bin\Release\net9.0\ConsoleApp.deps.json
+C:\temp\ispp31\LabApplication\ConsoleApp\bin\Release\net9.0\ConsoleApp.runtimeconfig.json
+C:\temp\ispp31\LabApplication\ConsoleApp\bin\Release\net9.0\ConsoleApp.dll
+C:\temp\ispp31\LabApplication\ConsoleApp\bin\Release\net9.0\ConsoleApp.pdb
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\ConsoleApp.dll
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\refint\ConsoleApp.dll
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\ConsoleApp.pdb
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\temp\ispp31\LabApplication\ConsoleApp\obj\Release\net9.0\ref\ConsoleApp.dll
