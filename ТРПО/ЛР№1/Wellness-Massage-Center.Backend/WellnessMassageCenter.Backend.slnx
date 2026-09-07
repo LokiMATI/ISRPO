@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="WellnessMassageCenter.Backend.API.Tests/WellnessMassageCenter.Backend.API.Tests.csproj" Id="6a1072e3-7bc6-4788-a87f-8d82d5f31bf1" />
+  <Project Path="WellnessMassageCenter.Backend.API/WellnessMassageCenter.Backend.API.csproj" Id="97ca90b6-aa8e-4557-9c44-41b7f7f41c1a" />
+  <Project Path="WellnessMassageCenter.Backend.DAL/WellnessMassageCenter.Backend.DAL.csproj" Id="10501799-76e1-4575-a9a7-ff1a2b3e2e0e" />
+  <Project Path="WellnessMassageCenter.Backend.DTO/WellnessMassageCenter.Backend.DTO.csproj" />
+  <Project Path="WellnessMassageCenter.Backend.Services.Tests/WellnessMassageCenter.Backend.Services.Tests.csproj" Id="8d7786bf-a110-4421-84d3-29ff38e29af0">
+    <Build Solution="Debug|*" Project="false" />
+  </Project>
+  <Project Path="WellnessMassageCenter.Backend.Services/WellnessMassageCenter.Backend.Services.csproj" Id="7f4e6110-0088-4a44-bfc2-8a5068c15c7f" />
+</Solution>

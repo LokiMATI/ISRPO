@@ -1,0 +1,12 @@
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\bin\Debug\net10.0\UsersApp.Models.deps.json
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\bin\Debug\net10.0\UsersApp.Models.dll
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\bin\Debug\net10.0\UsersApp.Models.pdb
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\UsersApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\UsersApp.Models.AssemblyInfoInputs.cache
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\UsersApp.Models.AssemblyInfo.cs
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\UsersApp.Models.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\UsersApp.Models.sourcelink.json
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\UsersApp.Models.dll
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\refint\UsersApp.Models.dll
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\UsersApp.Models.pdb
+C:\temp\ispp31\ТРПО\ЛР№1\UsersApp\UsersApp.Models\obj\Debug\net10.0\ref\UsersApp.Models.dll

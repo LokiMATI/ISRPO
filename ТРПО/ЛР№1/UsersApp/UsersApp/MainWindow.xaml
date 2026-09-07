@@ -1,0 +1,19 @@
+﻿<Window x:Class="UsersApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UsersApp"
+        mc:Ignorable="d"
+        Title="Главное окно" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" Height="20">
+            <MenuItem Header="Авторизация" Name="AuthorizationMenuItem" Click="AuthorizationMenuItem_Click"/>
+            <MenuItem Header="Регистрация" Name="RegistrationMenuItem" Click="RegistrationMenuItem_Click"/>
+            <MenuItem Header="Экспорт" Name="ExportMenuItem" Click="ExportMenuItem_Click"/>
+            <MenuItem Header="Импорт" Name="ImportMenuItem" Click="ImportMenuItem_Click"/>
+        </Menu>
+        <DataGrid  DockPanel.Dock="Bottom" Name="UsersDataGrid" AutoGenerateColumns="True" IsReadOnly="True"/>
+    </DockPanel>
+</Window>

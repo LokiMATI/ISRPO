@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UsersApp.Models/UsersApp.Models.csproj" Id="d0bb52a3-3deb-41ed-870e-702494422cc8" />
+  <Project Path="UsersApp/UsersApp.csproj" />
+</Solution>
