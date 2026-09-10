@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LabConsole/LabConsole.csproj" Id="a2751051-c9cc-4fa6-a93c-db2ecbd793c7" />
+  <Project Path="LabWindow/LabWindow.csproj" Id="2ba92314-9ee5-4956-b986-eb95ee66bbaa" />
+</Solution>

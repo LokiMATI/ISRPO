@@ -1,0 +1,15 @@
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\bin\Debug\net10.0\LabConsole.exe
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\bin\Debug\net10.0\LabConsole.deps.json
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\bin\Debug\net10.0\LabConsole.runtimeconfig.json
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\bin\Debug\net10.0\LabConsole.dll
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\bin\Debug\net10.0\LabConsole.pdb
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\LabConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\LabConsole.AssemblyInfoInputs.cache
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\LabConsole.AssemblyInfo.cs
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\LabConsole.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\LabConsole.sourcelink.json
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\LabConsole.dll
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\refint\LabConsole.dll
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\LabConsole.pdb
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\LabConsole.genruntimeconfig.cache
+C:\temp\ispp31\ТРПО\ЛР№2\LabApplication\LabConsole\obj\Debug\net10.0\ref\LabConsole.dll
