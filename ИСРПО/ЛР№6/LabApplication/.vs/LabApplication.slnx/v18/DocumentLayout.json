@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5275535E-423C-4820-9704-372416AAB56E}|LabApiApplication\\LabApiApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21166\\labapplication\\labapiapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5275535E-423C-4820-9704-372416AAB56E}|LabApiApplication\\LabApiApplication.csproj|solutionrelative:labapiapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5275535E-423C-4820-9704-372416AAB56E}|LabApiApplication\\LabApiApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21166\\labapplication\\labapiapplication\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5275535E-423C-4820-9704-372416AAB56E}|LabApiApplication\\LabApiApplication.csproj|solutionrelative:labapiapplication\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF8E95E-7C22-A4F6-BA24-406F0E074A41}|LabConsole\\LabConsole.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21166\\labapplication\\labconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF8E95E-7C22-A4F6-BA24-406F0E074A41}|LabConsole\\LabConsole.csproj|solutionrelative:labconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF8E95E-7C22-A4F6-BA24-406F0E074A41}|LabConsole\\LabConsole.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21166\\labapplication\\labconsole\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9AF8E95E-7C22-A4F6-BA24-406F0E074A41}|LabConsole\\LabConsole.csproj|solutionrelative:labconsole\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF8E95E-7C22-A4F6-BA24-406F0E074A41}|LabConsole\\LabConsole.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21166\\labapplication\\labconsole\\negativenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF8E95E-7C22-A4F6-BA24-406F0E074A41}|LabConsole\\LabConsole.csproj|solutionrelative:labconsole\\negativenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorMessage.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabApiApplication\\ErrorMessage.cs",
+              "RelativeDocumentMoniker": "LabApiApplication\\ErrorMessage.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabApiApplication\\ErrorMessage.cs",
+              "RelativeToolTip": "LabApiApplication\\ErrorMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:54:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabApiApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LabApiApplication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabApiApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LabApiApplication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:35:02.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NegativeNumberException.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabConsole\\NegativeNumberException.cs",
+              "RelativeDocumentMoniker": "LabConsole\\NegativeNumberException.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabConsole\\NegativeNumberException.cs",
+              "RelativeToolTip": "LabConsole\\NegativeNumberException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:12:22.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabConsole\\NLog.config",
+              "RelativeDocumentMoniker": "LabConsole\\NLog.config",
+              "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabConsole\\NLog.config",
+              "RelativeToolTip": "LabConsole\\NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-10T07:55:30.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabConsole\\Program.cs",
+              "RelativeDocumentMoniker": "LabConsole\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21166\\LabApplication\\LabConsole\\Program.cs",
+              "RelativeToolTip": "LabConsole\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:09:21.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

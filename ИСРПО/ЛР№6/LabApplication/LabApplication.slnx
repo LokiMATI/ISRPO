@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LabApiApplication/LabApiApplication.csproj" Id="5275535e-423c-4820-9704-372416aab56e" />
+  <Project Path="LabConsole/LabConsole.csproj" />
+</Solution>
