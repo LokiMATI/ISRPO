@@ -1,0 +1,15 @@
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\bin\Debug\net10.0\StopWatchConsoleApplication.exe
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\bin\Debug\net10.0\StopWatchConsoleApplication.deps.json
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\bin\Debug\net10.0\StopWatchConsoleApplication.runtimeconfig.json
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\bin\Debug\net10.0\StopWatchConsoleApplication.dll
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\bin\Debug\net10.0\StopWatchConsoleApplication.pdb
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\StopWatchConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\StopWatchConsoleApplication.AssemblyInfoInputs.cache
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\StopWatchConsoleApplication.AssemblyInfo.cs
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\StopWatchConsoleApplication.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\StopWatchConsoleApplication.sourcelink.json
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\StopWatchConsoleApplication.dll
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\refint\StopWatchConsoleApplication.dll
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\StopWatchConsoleApplication.pdb
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\StopWatchConsoleApplication.genruntimeconfig.cache
+C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\StopWatchConsoleApplication\obj\Debug\net10.0\ref\StopWatchConsoleApplication.dll

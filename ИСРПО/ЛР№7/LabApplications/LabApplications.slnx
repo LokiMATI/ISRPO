@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApplication/ConsoleApplication.csproj" />
+  <Project Path="SourceConsoleApplication/SourceConsoleApplication.csproj" />
+  <Project Path="StopWatchConsoleApplication/StopWatchConsoleApplication.csproj" />
+  <Project Path="TraceSourceConsoleApplication/TraceSourceConsoleApplication.csproj" />
+</Solution>

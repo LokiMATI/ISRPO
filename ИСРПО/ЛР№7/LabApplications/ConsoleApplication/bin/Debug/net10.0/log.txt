@@ -1,0 +1,6 @@
+[14.09.2026 8:42:33] System.FormatException: System.FormatException: The input string 'wd' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\ConsoleApplication\Program.cs:line 4
+[14.09.2026 8:42:59] System.DivideByZeroException: System.DivideByZeroException: Attempted to divide by zero.
+   at Program.<Main>$(String[] args) in C:\temp\ispp31\ИСРПО\ЛР№7\LabApplications\ConsoleApplication\Program.cs:line 12

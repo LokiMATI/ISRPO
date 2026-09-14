@@ -1,0 +1,14 @@
+Calculator Information: 0 : Начинается ввод значения первого целого числа.
+Calculator Warning: 1 : При вводе не целого числа будет вызвано исключение.
+Calculator Verbose: 1 : Значение первого целого числа: 5
+Calculator Information: 0 : Начинается ввод значения второго целого числа.
+Calculator Warning: 2 : При вводе не целого числа будет вызвано исключение.
+Calculator Verbose: 2 : Значение второго целого числа: 10.
+Calculator Information: 0 : Начало выполнения операции сложения.
+Calculator Information: 0 : Результат сложения: 15.
+Calculator Information: 0 : Начало выполнения операции вычитания.
+Calculator Information: 0 : Результат вычитания: -5.
+Calculator Information: 0 : Начало выполнения операции умножения.
+Calculator Information: 0 : Результат умножения: 50.
+Calculator Information: 0 : Начало выполнения операции деления.
+Calculator Information: 0 : Результат деления: 0.
