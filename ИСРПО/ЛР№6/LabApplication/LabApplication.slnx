@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="FileConsoleApp/FileConsoleApp.csproj" Id="814dca0b-7325-44aa-a260-20cb0093d747" />
+  <Project Path="GlobalExceptionConsoleApp/GlobalExceptionConsoleApp.csproj" Id="ef2f80c6-44f2-46b3-a9e6-d2f7b0bc14b4" />
   <Project Path="LabApiApplication/LabApiApplication.csproj" Id="5275535e-423c-4820-9704-372416aab56e" />
   <Project Path="LabConsole/LabConsole.csproj" />
+  <Project Path="UserExceptionConsoleApp/UserExceptionConsoleApp.csproj" Id="eeb0fcbe-8d4d-4ad6-b1fd-bdb30808c378" />
 </Solution>

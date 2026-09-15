@@ -13,22 +13,34 @@ public class UserController : ControllerBase
 		try
 		{
 			if (id.Any(c => !char.IsDigit(c)))
-				throw new FormatException();
+				throw new FormatException("Invalid ID format.");
 
 			int value = int.Parse(id);
 
 			if (value > _users.Count() || value < 0)
-				throw new NotFoundResult();
+				throw new KeyNotFoundException("Пользователь с таким идентификатором не был найден.");
 
 			return Ok(_users[value]);
 		}
-		catch (FormatException)
+		catch (KeyNotFoundException ex)
+        {
+            LogException(ex);
+            return NotFound(new ErrorMessage() { Error = ex.Message, StatusCode = 404 });
+        }
+        catch (FormatException ex)
 		{
-			return BadRequest(new ErrorMessage() { Error = "Invalid ID format", StatusCode = 400 });
+            LogException(ex);
+            return BadRequest(new ErrorMessage() { Error = "Invalid ID format", StatusCode = 400 });
 		}
 		catch (Exception ex)
 		{
+            LogException(ex);
             return BadRequest(new ErrorMessage() { Error = ex.Message, StatusCode = 400 });
         }
+    }
+
+    private void LogException(Exception ex)
+    {
+        System.IO.File.AppendAllText("log.txt", $"[{DateTime.Now}] {HttpContext.Request.HttpContext.Connection.RemoteIpAddress}: {ex.Message}\n");
     }
 }

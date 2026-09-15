@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Uo6j0Ol/cNA=",
+  "dgSpecHash": "ll7l1gy3S7Q=",
   "success": true,
   "projectFilePath": "C:\\temp\\ispp31\\ИСРПО\\ЛР№6\\LabApplication\\LabApiApplication\\LabApiApplication.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\0109-13\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\0109-13\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\0109-13\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\0109-13\\.nuget\\packages\\scalar.aspnetcore\\2.17.3\\scalar.aspnetcore.2.17.3.nupkg.sha512",
     "C:\\Users\\0109-13\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512"
   ],
   "logs": [

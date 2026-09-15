@@ -1,4 +1,4 @@
-﻿namespace LabConsole;
+﻿namespace UserExceptionConsoleApp;
 
 public class NegativeNumberException : Exception
 {

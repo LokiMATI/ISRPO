@@ -1,6 +1,0 @@
-@LabApiApplication_HostAddress = http://localhost:5133
-
-GET {{LabApiApplication_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
