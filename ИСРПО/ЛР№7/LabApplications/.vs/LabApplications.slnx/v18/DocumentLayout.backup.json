@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21167\\LabApplications\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBEA884B-7B6B-41CB-B7FB-96F98B009F11}|SourceConsoleApplication\\SourceConsoleApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21167\\labapplications\\sourceconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBEA884B-7B6B-41CB-B7FB-96F98B009F11}|SourceConsoleApplication\\SourceConsoleApplication.csproj|solutionrelative:sourceconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6F17921-9126-0548-1432-665374DA5BDD}|SourceConsoleApplication\\SourceConsoleApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21167\\labapplications\\sourceconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F17921-9126-0548-1432-665374DA5BDD}|SourceConsoleApplication\\SourceConsoleApplication.csproj|solutionrelative:sourceconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFDA3BA9-E33C-42DB-B88E-3ED717A511A0}|TraceSourceConsoleApplication\\TraceSourceConsoleApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21167\\labapplications\\tracesourceconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFDA3BA9-E33C-42DB-B88E-3ED717A511A0}|TraceSourceConsoleApplication\\TraceSourceConsoleApplication.csproj|solutionrelative:tracesourceconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60B27E8B-374E-0EB8-C003-65A562EC3C4D}|TraceSourceConsoleApplication\\TraceSourceConsoleApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21167\\labapplications\\tracesourceconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B27E8B-374E-0EB8-C003-65A562EC3C4D}|TraceSourceConsoleApplication\\TraceSourceConsoleApplication.csproj|solutionrelative:tracesourceconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E3E1EF1-2B7D-4864-8027-D37B10F6C51B}|StopWatchConsoleApplication\\StopWatchConsoleApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21167\\labapplications\\stopwatchconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E3E1EF1-2B7D-4864-8027-D37B10F6C51B}|StopWatchConsoleApplication\\StopWatchConsoleApplication.csproj|solutionrelative:stopwatchconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4A995C-E727-A237-54BC-4E2F1BD0B5F3}|StopWatchConsoleApplication\\StopWatchConsoleApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21167\\labapplications\\stopwatchconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4A995C-E727-A237-54BC-4E2F1BD0B5F3}|StopWatchConsoleApplication\\StopWatchConsoleApplication.csproj|solutionrelative:stopwatchconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C22194E-4D56-47BA-9CA5-E569D2B733EC}|ConsoleApplication\\ConsoleApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21167\\labapplications\\consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C22194E-4D56-47BA-9CA5-E569D2B733EC}|ConsoleApplication\\ConsoleApplication.csproj|solutionrelative:consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E74D3997-AADD-6826-D2C5-7A30C684502F}|ConsoleApplication\\ConsoleApplication.csproj|c:\\temp\\ispp31\\\u0438\u0441\u0440\u043F\u043E\\\u043B\u0440\u21167\\labapplications\\consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74D3997-AADD-6826-D2C5-7A30C684502F}|ConsoleApplication\\ConsoleApplication.csproj|solutionrelative:consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,9 +36,9 @@
               "RelativeDocumentMoniker": "SourceConsoleApplication\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21167\\LabApplications\\SourceConsoleApplication\\Program.cs",
               "RelativeToolTip": "SourceConsoleApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T06:52:07.853Z",
+              "WhenOpened": "2026-09-14T07:02:26.932Z",
               "EditorCaption": ""
             },
             {
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "TraceSourceConsoleApplication\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21167\\LabApplications\\TraceSourceConsoleApplication\\Program.cs",
               "RelativeToolTip": "TraceSourceConsoleApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T06:13:49.124Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "StopWatchConsoleApplication\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21167\\LabApplications\\StopWatchConsoleApplication\\Program.cs",
               "RelativeToolTip": "StopWatchConsoleApplication\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAACBAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T05:44:55.276Z",
               "EditorCaption": ""
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\\u0418\u0421\u0420\u041F\u041E\\\u041B\u0420\u21167\\LabApplications\\ConsoleApplication\\Program.cs",
               "RelativeToolTip": "ConsoleApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T05:35:12.577Z",
               "EditorCaption": ""

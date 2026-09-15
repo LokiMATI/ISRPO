@@ -36,7 +36,6 @@ firstTs = stopWatch.Elapsed;
 Debug.WriteLine($"Время выполнение первого подсчёта размера файлов в папке: {firstTs.TotalMilliseconds} ms");
 File.AppendAllText("timings.log", $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Operation=SumFilesSize, Elapsed={firstTs.TotalMilliseconds} ms\n");
 
-
 stopWatch.Restart();
 size = SumFilesSize(@"C:\temp");
 stopWatch.Stop();
@@ -60,7 +59,8 @@ File.AppendAllText("timings.log", $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Operati
 
 static ulong Factorial(ulong x)
 {
-    if (x == 1) return 1;
+    if (x == 1) 
+        return 1;
     return x * Factorial(x - 1);
 }
 

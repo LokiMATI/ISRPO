@@ -31,19 +31,19 @@ try
 
     ts.TraceInformation("Начало выполнения операции сложения.");
     var result = firstNumber + secondNumber;
-    ts.TraceInformation($"Результат сложения: {result}.");
+    ts.TraceEvent(TraceEventType.Verbose, 3, $"Результат сложения: {result}.");
 
     ts.TraceInformation("Начало выполнения операции вычитания.");
     result = firstNumber - secondNumber;
-    ts.TraceInformation($"Результат вычитания: {result}.");
+    ts.TraceEvent(TraceEventType.Verbose, 4, $"Результат вычитания: {result}.");
 
     ts.TraceInformation("Начало выполнения операции умножения.");
     result = firstNumber * secondNumber;
-    ts.TraceInformation($"Результат умножения: {result}.");
+    ts.TraceEvent(TraceEventType.Verbose, 5, $"Результат умножения: {result}.");
 
     ts.TraceInformation("Начало выполнения операции деления.");
     result = firstNumber / secondNumber;
-    ts.TraceInformation($"Результат деления: {result}.");
+    ts.TraceEvent(TraceEventType.Verbose, 6, $"Результат деления: {result}.");
 }
 catch (FormatException ex)
 {

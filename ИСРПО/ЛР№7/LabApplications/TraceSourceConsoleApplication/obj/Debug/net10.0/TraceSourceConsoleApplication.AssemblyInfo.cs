@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TraceSourceConsoleApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40df02655659c7c2bbd93a1bb9240d8b2cbc14ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b63b14d6e8962d6f3b360d1f30c8568687bc0975")]
 [assembly: System.Reflection.AssemblyProductAttribute("TraceSourceConsoleApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TraceSourceConsoleApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

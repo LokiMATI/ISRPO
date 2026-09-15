@@ -13,16 +13,19 @@
 }
 catch (FormatException ex)
 {
-    Console.WriteLine(ex.Message);
-    File.AppendAllText("log.txt", $"[{DateTime.Now}] {ex.GetType()}: {ex.ToString()}\n");
+    LogException(ex);
 }
 catch (OverflowException ex)
 {
-    Console.WriteLine(ex.Message);
-    File.AppendAllText("log.txt", $"[{DateTime.Now}] {ex.GetType()}: {ex.ToString()}\n");
+    LogException(ex);
 }
 catch (Exception ex)
 {
+    LogException(ex);
+}
+
+static void LogException(Exception ex)
+{
     Console.WriteLine(ex.Message);
-    File.AppendAllText("log.txt", $"[{DateTime.Now}] {ex.GetType()}: {ex.ToString()}\n");
+    File.AppendAllText("log.txt", $"[{DateTime.Now}] {ex.GetType()}: {ex}\n");
 }
