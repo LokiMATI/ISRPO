@@ -1,0 +1,40 @@
+# Binaries и результаты сборки
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+# Тесты и покрытие кода
+TestResults/
+[Cc]overage/
+*.coverage
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Publish output
+publish/
+
+# Local DB / temp files
+*.db
+*.sqlite
