@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="ConsoleClientApplication/ConsoleClientApplication.csproj" />
+  <Project Path="ConsoleTwoLinkApplication/ConsoleTwoLinkApplication.csproj" />
+  <Project Path="DbContext/ApplicationEntityFramework.csproj" />
+  <Project Path="DTO/DTO.csproj" />
+  <Project Path="Models/Models.csproj" />
+  <Project Path="ServerApi/ServerApi.csproj" />
+  <Project Path="WindowClientApplication/WindowClientApplication.csproj" />
+</Solution>
