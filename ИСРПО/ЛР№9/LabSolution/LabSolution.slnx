@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Task1ConsoleApp/Task1ConsoleApp.csproj" />
+  <Project Path="Task2ConsoleApp/Task2ConsoleApp.csproj" />
+  <Project Path="Task3ConsoleApp/Task3ConsoleApp.csproj" />
+  <Project Path="UserOptimizationExample/UserOptimizationExample.csproj" />
+</Solution>
