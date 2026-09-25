@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Models/Models.csproj" />
+  <Project Path="TestWpfApp/TestWpfApp.csproj" />
+</Solution>

@@ -51,7 +51,7 @@
               "RelativeDocumentMoniker": "UsersApp\\AuthorizationWindow.xaml.cs",
               "ToolTip": "C:\\temp\\ispp31\\\u0422\u0420\u041F\u041E\\\u041B\u0420\u21161\\UsersApp\\UsersApp\\AuthorizationWindow.xaml.cs",
               "RelativeToolTip": "UsersApp\\AuthorizationWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T08:24:54.091Z",
               "EditorCaption": ""
@@ -66,8 +66,7 @@
               "RelativeToolTip": "UsersApp\\RegistrationWindow.xaml.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAEwCUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:20:14.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T08:20:14.113Z"
             },
             {
               "$type": "Document",
@@ -78,8 +77,7 @@
               "ToolTip": "C:\\temp\\ispp31\\\u0422\u0420\u041F\u041E\\\u041B\u0420\u21161\\UsersApp\\UsersApp\\RegistrationWindow.xaml",
               "RelativeToolTip": "UsersApp\\RegistrationWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-07T08:16:40.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T08:16:40.57Z"
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "RelativeToolTip": "UsersApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwBcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T06:58:49.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T06:58:49.957Z"
             },
             {
               "$type": "Document",
@@ -104,8 +101,7 @@
               "RelativeToolTip": "UsersApp\\Services\\DataManageService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:33:25.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T08:33:25.569Z"
             },
             {
               "$type": "Document",
@@ -116,8 +112,7 @@
               "ToolTip": "C:\\temp\\ispp31\\\u0422\u0420\u041F\u041E\\\u041B\u0420\u21161\\UsersApp\\UsersApp\\AuthorizationWindow.xaml",
               "RelativeToolTip": "UsersApp\\AuthorizationWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-07T07:03:48.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T07:03:48.215Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "ToolTip": "C:\\temp\\ispp31\\\u0422\u0420\u041F\u041E\\\u041B\u0420\u21161\\UsersApp\\UsersApp\\MainWindow.xaml",
               "RelativeToolTip": "UsersApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-07T06:58:51.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T06:58:51.382Z"
             },
             {
               "$type": "Document",
@@ -141,8 +135,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\0109-13\\Desktop\\Test.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-07T09:24:04.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T09:24:04.628Z"
             }
           ]
         }

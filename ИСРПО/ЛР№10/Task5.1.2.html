@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!-- saved from url=(0092)file:///C:/temp/ispp31/%D0%98%D0%A1%D0%A0%D0%9F%D0%9E/%D0%9B%D0%A0%E2%84%9610/LabWork10.html -->
+<html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тестирование функциональности в браузере</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .button-class {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .button-class:hover {
+            background-color: #45a049;
+        }
+        .dynamic-element {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: lightblue;
+        }
+        .error-message {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <!-- DOM манипуляции и события -->
+    <h1 id="header">Тестовый заголовок</h1>
+	
+	<form action="file:///C:/submit" method="POST">
+        <input type="text" id="searchText" name="searchText" required="">
+        <button type="submit">Найти</button>
+    </form>
+
+    <img id="test-image" src="./Task5.1.2_files/detail_3274ed361b440063deab021bc458ecb3.jpg" alt="Тестовое изображение">
+
+    <h2>Изменение DOM и обработка событий</h2>
+    <button class="button-class">Нажми меня</button>
+    <p class="error-message" id="error-message">Ошибка через 3 секунды: nonExistentVariable is not defined</p>
+
+    <!-- Сетевые запросы -->
+    <h2>Сетевые запросы</h2>
+    <button class="load-data">Загрузить данные</button>
+	<div class="data-container"></div>
+
+    <!-- Адаптивность и динамическое добавление элементов -->
+    <h2>Динамическое добавление контента</h2>
+	
+ 	<!-- Сообщение для динамической загрузки -->
+    <p id="message">Сообщение обновлено динамически</p>
+
+    <script src="./Task5.1.2_files/script.js"></script>
+
+
+<div class="dynamic-element">Динамически загруженный элемент через 1 секунду</div><div class="dynamic-element">Этот элемент добавлен динамически через 2 секунды</div></body></html>
