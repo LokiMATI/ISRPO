@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="StudService.API/StudService.API.csproj" Id="ad487316-4a85-4c82-86f1-685619b5c88d" />
+  <Project Path="StudService.DTO/StudService.DTO.csproj" Id="e0a1e91f-c9ea-4710-bc22-8742f5f6f60e" />
   <Project Path="StudService.EntityFramework/StudService.EntityFramework.csproj" />
   <Project Path="StudService.Models/StudService.Models.csproj" />
 </Solution>
