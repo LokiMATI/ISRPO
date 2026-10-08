@@ -13,4 +13,10 @@ public partial class Lection
     public int Number { get; set; }
 
     public string? Image { get; set; }
+
+    public virtual Course Course { get; set; } = null!;
+
+    public virtual ICollection<Task> Tasks { get; set; } = new List<Task>();
+
+    public virtual ICollection<Material> IdMaterials { get; set; } = new List<Material>();
 }

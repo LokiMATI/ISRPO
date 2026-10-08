@@ -9,4 +9,6 @@ public partial class Course
     public string Description { get; set; } = null!;
 
     public string? Image { get; set; }
+
+    public virtual ICollection<Lection> Lections { get; set; } = new List<Lection>();
 }

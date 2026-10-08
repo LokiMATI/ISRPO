@@ -11,4 +11,6 @@ public partial class Task
     public string Answer { get; set; } = null!;
 
     public virtual ICollection<Answer> Answers { get; set; } = new List<Answer>();
+
+    public virtual Lection Lection { get; set; } = null!;
 }

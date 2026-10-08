@@ -1,7 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
-using StudService.Models;
+﻿using StudService.Models;
 
-namespace StudService.EntityFramework.Contexts;
+namespace StudService.EntityFramework.Models;
 
 public partial class StudDbContext : DbContext
 {
@@ -24,7 +23,7 @@ public partial class StudDbContext : DbContext
 
     public virtual DbSet<Role> Roles { get; set; }
 
-    public virtual DbSet<Models.Task> Tasks { get; set; }
+    public virtual DbSet<Task> Tasks { get; set; }
 
     public virtual DbSet<User> Users { get; set; }
 
