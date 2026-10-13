@@ -75,6 +75,7 @@ public class CoursesController(StudDbContext context) : ControllerBase
 		{
             return StatusCode(500);
         }
+
 		return Ok();
 	}
 }

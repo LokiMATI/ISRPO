@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StudService.DTO;
 using StudService.EntityFramework.Contexts;
+using StudService.Models;
 
 namespace StudService.API.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class LectionsController(StudDbContext context) : ControllerBase
 {
     [HttpGet]
@@ -23,12 +26,12 @@ public class LectionsController(StudDbContext context) : ControllerBase
         }
     }
 
-    [HttpGet("{id}")]
+    [HttpGet("{id:int}")]
     public async Task<IActionResult> Get(int id)
     {
         try
         {
-            var lection = await context.Lections.FirstOrDefaultAsync(l => l.Id == id);
+            var lection = await context.Lections.AsNoTracking().FirstOrDefaultAsync(l => l.Id == id);
             if (lection is null)
                 return NotFound();
 
@@ -41,27 +44,90 @@ public class LectionsController(StudDbContext context) : ControllerBase
     }
 
     [HttpPost]
-    public void Create([FromBody] CreateLectionDto input)
+    [Authorize(Roles = "Учитель")]
+    public async Task<IActionResult> Create([FromBody] CreateLectionDto input)
     {
         try
         {
-            if 
+            if (await context.Lections.AnyAsync(l => l.Number == input.Number
+            && l.CourseId == input.CourseId))
+                return BadRequest("Лекция у данного курса с таким порядковым номером уже существует.");
+
+            Lection lection = new()
+            {
+                Title = input.Title,
+                Content = input.Content,
+                CourseId = input.CourseId,
+                Number = input.Number,
+                Image = input.Image
+            };
+
+            await context.Lections.AddAsync(lection);
+            await context.SaveChangesAsync();
         }
         catch (Exception)
         {
             return StatusCode(500);
         }
+
+        return Ok();
     }
 
-    // PUT api/<LectionsController>/5
-    [HttpPut("{id}")]
-    public void Put(int id, [FromBody] string value)
+    [HttpPut("{id:int}")]
+    [Authorize(Roles = "Учитель")]
+    public async Task<IActionResult> Put(int id, [FromBody] UpdateLectionDto input)
     {
+        try
+        {
+            var lection = await context.Lections.FirstOrDefaultAsync(l => l.Id == id);
+            if (lection is null)
+                return NotFound();
+
+            if (lection.Number != input.Number)
+            {
+                var tempLection = await context.Lections.FirstOrDefaultAsync(l => l.CourseId == lection.CourseId && l.Number == input.Number);
+                if (tempLection is not null)
+                {
+                    var tempNumber = tempLection.Number;
+                    tempLection.Number = input.Number;
+                    lection.Number = tempNumber;
+                }
+            }
+            lection.Title = input.Title;
+            lection.Content = input.Content;
+            lection.Image = input.Image;
+
+            await context.SaveChangesAsync();
+        }
+        catch (Exception)
+        {
+            return StatusCode(500);
+        }
+
+        return Ok();
     }
 
-    // DELETE api/<LectionsController>/5
-    [HttpDelete("{id}")]
-    public void Delete(int id)
+    [HttpDelete("{id:int}")]
+    [Authorize(Roles = "Учитель")]
+    public async Task<IActionResult> Delete(int id)
     {
+        try
+        {
+            var lection = await context.Lections.FirstOrDefaultAsync(l => l.Id == id);
+            if (lection is null)
+                return NotFound();
+
+            context.Lections.Remove(lection);
+            await context.SaveChangesAsync();
+
+            await context.Lections.Where(l => l.CourseId == lection.CourseId && l.Number > lection.Number)
+                .ExecuteUpdateAsync(setters => setters.SetProperty(l => l.Number, l => l.Number - 1));
+        }
+        catch (Exception)
+        {
+            return StatusCode(500);
+        }
+
+        return NoContent();
     }
 }
