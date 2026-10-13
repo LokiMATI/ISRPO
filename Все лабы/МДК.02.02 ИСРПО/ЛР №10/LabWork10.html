@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тестирование функциональности в браузере</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .button-class {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .button-class:hover {
+            background-color: #45a049;
+        }
+        .dynamic-element {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: lightblue;
+        }
+        .error-message {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <!-- DOM манипуляции и события -->
+    <h1 id="header">Тестирование функциональности с использованием DevTools</h1>
+	
+	<form action="/submit" method="POST">
+        <input type="text" id="searchText" name="searchText" required>
+        <button type="submit">Найти</button>
+    </form>
+
+    <img id="test-image" src="https://via.placeholder.com/150" alt="Тестовое изображение">
+
+    <h2>Изменение DOM и обработка событий</h2>
+    <button class="button-class">Нажми меня</button>
+    <p class="error-message" id="error-message">Ошибка не произошла</p>
+
+    <!-- Сетевые запросы -->
+    <h2>Сетевые запросы</h2>
+    <button class="load-data">Загрузить данные</button>
+	<div class="data-container"></div>
+
+    <!-- Адаптивность и динамическое добавление элементов -->
+    <h2>Динамическое добавление контента</h2>
+	
+ 	<!-- Сообщение для динамической загрузки -->
+    <p id="message">Это сообщение будет заменено через 5 секунд</p>
+
+    <script src="script.js"></script>
+</body>
+</html>
